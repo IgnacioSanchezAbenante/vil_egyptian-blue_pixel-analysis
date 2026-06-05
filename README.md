@@ -53,7 +53,7 @@ thesis_comparative-analysis_repository/
 | Pigment | `P.00`,`P.01`, `G.01` | Egyptian Blue sources: F5EG2* (P.00 = control), F5EG2 finer (G.01) and Kremer pigmente (P.01) |
 | Mixture | `M.ORP`, `M.CAR`, `M.ASH` | Egyptian Blue mixed with orpiment, carbon, or ash at 1:9, 1:1, 9:1 ratios |
 | Stratigraphy | `S.CAR`, `S.FEO`, `S.ORP` | Egyptian Blue with carbon, iron oxide, or orpiment overlay |
-| Alteration | `A.01`, `A.02` | Egyptian Blue with animal glue / consolidant |
+| Alteration | `A.01`, `A.02` | Egyptian Blue with animal glue / + gampi japanese paper |
 
 *The Egyptian blue used in this study (sample F5EG2, preparation 24.10.2025, firing 18.11.2025) was generously donated by the amsterdam-based researchers and artist, who since 2020 have been engaged in an ongoing international project of experimental reconstruction of Egyptian blue encompassing over ninety synthesis permutations, using locally sourced Egyptian raw materials and historically-informed methods.  From this body of work theyhave kindly provided a small portion of the sample identified as their most photoluminescent synthesis to date ( F5EG2: App: 3.[x)]. Their research — which addresses synthesis ratios, raw material availability and characterisation, and the resulting pigment properties across a wide range of production and paint-processing variables [CAN BE DELETED IF THEY DONT WANT TO DISCLOSE] — substantially exceeds the scope of the present study; full findings and methodology are the subject of forthcoming publications (Danish, maitre, et al., forthcoming). For further information see: https://dinadanish.com/synthetic-egyptian-blue-the-evil-eye-reconstructing-a-lost-pigment-and-tracing-its-protective-aura/; https://jbmaitre.com/egyptian_blue_maitre_danish/. 
 
