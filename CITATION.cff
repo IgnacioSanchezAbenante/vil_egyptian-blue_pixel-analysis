@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+type: software
+title: "Egyptian Blue VIL Analysis — Comparative Repository"
+abstract: >
+  Image-processing workflows for Egyptian Blue detection using
+  Visible-Induced Luminescence (VIL). Produces per-swatch intensity
+  metrics, KDE distributions, normalised signal comparisons, and
+  before/after ageing analyses from raw TIFF swatch images.
+authors:
+  - family-names: Sánchez Abenante
+    given-names: Ignacio
+    affiliation: "University of Amsterdam"
+version: "1.3.0"
+date-released: "2026"
+license: "All rights reserved"
+repository-code: ""
+keywords:
+  - Egyptian Blue
+  - cuprorivaite
+  - visible-induced luminescence
+  - VIL
+  - near-infrared luminescence
+  - cultural heritage
+  - conservation science
+  - image processing
+  - mockup analysis
+  - artificial ageing
+  - Book of the Dead
+references:
+  - type: thesis
+    title: "Egyptian Blue detection using Visible-Induced Luminescence (VIL)"
+    authors:
+      - family-names: Sánchez Abenante
+        given-names: Ignacio
+    institution:
+      name: "University of Amsterdam"
+      department: "Conservation and Restoration of Cultural Heritage"
+    year: 2026
+    thesis-type: "Master's thesis"

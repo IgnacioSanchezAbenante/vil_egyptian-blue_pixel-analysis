@@ -1,0 +1,18 @@
+id,label,group,n_pairs,mean_unaged,mean_aged,delta_mean,median_unaged,median_aged,delta_median
+P.00,EB.HA control,Pigment,3529,201.11,150.39,-50.72,201.0,151.0,-50.0
+P.01,EB Kremer,Pigment,3529,210.4,202.51,-7.89,211.0,203.0,-8.0
+G.01,HA Finer,Pigment,3529,152.18,82.98,-69.21,154.0,87.0,-67.0
+S.CAR,Carbon overlay,Stratigraphy,3529,24.93,64.51,39.58,8.0,39.0,31.0
+S.FEO,Iron oxide overlay,Stratigraphy,3529,37.62,26.82,-10.81,42.0,27.0,-15.0
+S.ORP,Orpiment overlay,Stratigraphy,3529,51.9,18.09,-33.81,45.0,19.0,-26.0
+M.ORP.01,Orpiment 1:9,Mixture,3529,221.44,162.87,-58.57,222.0,163.0,-59.0
+M.ORP.02,Orpiment 1:1,Mixture,3529,202.22,157.33,-44.89,203.0,158.0,-45.0
+M.ORP.03,Orpiment 9:1,Mixture,3529,95.78,66.91,-28.86,96.0,68.0,-28.0
+M.CAR.01,Carbon 1:9,Mixture,3529,8.99,7.9,-1.09,9.0,8.0,-1.0
+M.CAR.02,Carbon 1:1,Mixture,3529,0.81,0.76,-0.05,1.0,1.0,0.0
+M.CAR.03,Carbon 9:1,Mixture,3529,0.55,0.5,-0.05,0.0,0.0,0.0
+M.ASH.01,Ash 1:9,Mixture,3529,216.52,215.71,-0.81,217.0,216.0,-1.0
+M.ASH.02,Ash 1:1,Mixture,3529,195.6,194.77,-0.83,196.0,195.0,-1.0
+M.ASH.03,Ash 9:1,Mixture,3529,41.57,44.81,3.25,42.0,45.0,3.0
+A.01,Animal glue,Alteration,3529,200.26,162.74,-37.53,200.0,163.0,-37.0
+A.02,Animal glue + JP,Alteration,3529,200.7,165.24,-35.46,201.0,165.0,-36.0

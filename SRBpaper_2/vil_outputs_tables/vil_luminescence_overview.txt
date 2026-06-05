@@ -1,0 +1,19 @@
+── Summary overview per variable group ──
+
+The control swatch (P.00) was assigned 100% signal intensity. All other swatches are expressed as a percentage of its whole-image mean.
+
+[Pigment]
+  Normalised signal ranged from 76% to 105% of the control.
+  Greatest attenuation: Finer (76% of control).
+
+[Mixture]
+  Normalised signal ranged from 0% to 110% of the control.
+  Greatest attenuation: Carbon 9:1 (0% of control).
+
+[Stratigraphy]
+  Normalised signal ranged from 12% to 26% of the control.
+  Greatest attenuation: Carbon overlay (12% of control).
+
+[Alteration]
+  Normalised signal ranged from 100% to 100% of the control.
+  Greatest attenuation: Animal glue (100% of control).

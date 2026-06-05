@@ -1,0 +1,5 @@
+group,control_id,min_signal_pct,max_signal_pct,greatest_attenuation_label,greatest_attenuation_pct
+Pigment,P.00,75.7,104.6,Finer,75.7
+Mixture,P.00,0.3,110.1,Carbon 9:1,0.3
+Stratigraphy,P.00,12.3,25.6,Carbon overlay,12.3
+Alteration,P.00,99.6,99.8,Animal glue,99.6

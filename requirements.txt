@@ -1,0 +1,8 @@
+marimo>=0.23
+numpy
+matplotlib
+pillow
+seaborn
+scikit-image
+scipy
+pandas
