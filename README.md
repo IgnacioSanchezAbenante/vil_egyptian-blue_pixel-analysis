@@ -1,4 +1,4 @@
-# Egyptian Blue VIL imaging Comparative pixel-based Analysis — Repository
+# Egyptian Blue VIL Imaging Comparative Pixel-based Analysis — Repository
 
 Reproducible image-processing workflows and figures for the M.Sc. thesis:
 
