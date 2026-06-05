@@ -116,7 +116,7 @@ All user-configurable parameters are in the first code cell of each notebook:
 
 ---
 
-## Credit and Disclamer
+## Credit and disclaimer
 
 Source code and documentation associated with this thesis are available through a GitHub repository archived at the time of submission.
 
