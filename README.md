@@ -50,17 +50,20 @@ thesis_comparative-analysis_repository/
 
 | Group | Abbreviation prefix | Description |
 |---|---|---|
-| Pigment | `P`, `G` | Egyptian Blue pigment formulations |
+| Pigment | `P.00`,`P.01`, `G.01` | Egyptian Blue sources: F5EG2* (P.00 = control), F5EG2 finer (G.01) and Kremer pigmente (P.01) |
 | Mixture | `M.ORP`, `M.CAR`, `M.ASH` | Egyptian Blue mixed with orpiment, carbon, or ash at 1:9, 1:1, 9:1 ratios |
 | Stratigraphy | `S.CAR`, `S.FEO`, `S.ORP` | Egyptian Blue with carbon, iron oxide, or orpiment overlay |
 | Alteration | `A.01`, `A.02` | Egyptian Blue with animal glue / consolidant |
+
+*The Egyptian blue used in this study (sample F5EG2, preparation 24.10.2025, firing 18.11.2025) was generously donated by the amsterdam-based researchers and artist, who since 2020 have been engaged in an ongoing international project of experimental reconstruction of Egyptian blue encompassing over ninety synthesis permutations, using locally sourced Egyptian raw materials and historically-informed methods.  From this body of work theyhave kindly provided a small portion of the sample identified as their most photoluminescent synthesis to date ( F5EG2: App: 3.[x)]. Their research — which addresses synthesis ratios, raw material availability and characterisation, and the resulting pigment properties across a wide range of production and paint-processing variables [CAN BE DELETED IF THEY DONT WANT TO DISCLOSE] — substantially exceeds the scope of the present study; full findings and methodology are the subject of forthcoming publications (Danish, maitre, et al., forthcoming). For further information see: https://dinadanish.com/synthetic-egyptian-blue-the-evil-eye-reconstructing-a-lost-pigment-and-tracing-its-protective-aura/; https://jbmaitre.com/egyptian_blue_maitre_danish/. 
+
 
 ### Key methodological choices
 
 - **Raw pixel values throughout** — no normalisation at load time. 8-bit RGB → red channel (0–255); 16-bit grayscale → single channel (0–65 535).
 - **Z-score outlier masking** — pixels with |Z| > 2.0 σ (configurable via `ZSCORE_THRESHOLD`) are excluded per image to remove flakes, gaps, and sensor artefacts without applying a cross-swatch threshold.
 - **No Otsu threshold** — using all valid pixels ensures every swatch is fully represented and directly comparable regardless of brightness.
-- **Normalised signal** — swatch mean ÷ control mean × 100 %. The control swatch is `P.00` (Egyptian Blue, Haematite–Azurite, unaged).
+- **Normalised signal** — swatch mean ÷ control mean × 100 %. The control swatch is `P.00` (Egyptian Blue, FGEG2, unaged).
 
 ---
 
@@ -110,6 +113,16 @@ All user-configurable parameters are in the first code cell of each notebook:
 | `ZSCORE_THRESHOLD` | Outlier masking threshold (default `2.0`) |
 | `SWATCH_REGISTRY` | List of swatches with id, filename, label, group |
 | `AGEING_PAIRS` | Paired unaged/aged TIFF filenames |
+
+---
+
+## Credit and Disclamer
+
+Source code and documentation associated with this thesis are available through a GitHub repository archived at the time of submission.
+
+The repository contains the image-processing workflow used for Visible-Induced Luminescence (VIL) analysis of Egyptian Blue, together with documentation required to reproduce selected figures presented in this thesis.
+
+Initial concept and coding assistance was provided by Robbert Erdmann (University of Amsterdam). Additional coding assistance was provided by Anthropic Claude Sonnet 4.6. The author retains full responsibility for the design of the methodology, implementation, verification of results, interpretation of data, and all conclusions presented in this thesis.
 
 ---
 
