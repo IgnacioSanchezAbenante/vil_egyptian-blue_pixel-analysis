@@ -124,6 +124,8 @@ The repository contains the image-processing workflow used for Visible-Induced L
 
 Initial concept and coding assistance was provided by Robbert Erdmann (University of Amsterdam). Additional coding assistance was provided by Anthropic Claude Sonnet 4.6. The author retains full responsibility for the design of the methodology, implementation, verification of results, interpretation of data, and all conclusions presented in this thesis.
 
+Lastly, Anthropic Claude Sonnet 4.6 was also used to add in-text explinations within the code to help bench conservators and beginners (such as the author) to implement, adjust or personalise the piplne for their own use.
+
 ---
 
 ## Citation
