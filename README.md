@@ -4,7 +4,7 @@ A reproducible image-processing pipeline for analysing Visible-Induced Luminesce
 (VIL) imaging of Egyptian Blue mockup samples. Produced as part of an M.Sc. thesis
 in Conservation and Restoration of Cultural Heritage at the University of Amsterdam.
 
----
+
 
 ## Research context
 
@@ -17,7 +17,7 @@ imaging** through controlled mockup samples informed (to a limited extent) by th
 Book of the Dead of Qenna. It asks: under what conditions does Egyptian Blue remain
 detectable by VIL, and how does the signal change after artificial ageing?
 
----
+
 
 ## Thesis summary
 
