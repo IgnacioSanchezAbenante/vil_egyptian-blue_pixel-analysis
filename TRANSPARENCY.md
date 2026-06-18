@@ -9,16 +9,6 @@ of Amsterdam, initial concept and code) and **Anthropic Claude Sonnet 4.6**
 The author retains full responsibility for all code, analysis, interpretation,
 and conclusions presented in this thesis.
 
-## Provenance record
-
-| Item | Detail |
-|---|---|
-| Initial concept and code | Robbert Erdmann, University of Amsterdam |
-| Author | Ignacio Sánchez Abenante |
-| Institution | University of Amsterdam |
-| AI model | Anthropic Claude Sonnet 4.6 (`claude-sonnet-4-6`) |
-| Assistance date | 2026-04 / 2026-06 |
-
 ## What AI was used for
 
 - Reviewed coding mistakes, developed efficency and helped share the repository for reproducibility
