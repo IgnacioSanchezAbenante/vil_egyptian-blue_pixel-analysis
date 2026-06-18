@@ -58,6 +58,7 @@ thesis_comparative-analysis_repository/
 ├── CITATION.cff                    — machine-readable citation metadata
 ├── requirements.txt                — Python dependencies
 ├── TRANSPARENCY.md                 — AI and coding-assistance statement
+├── LICENSE                         — MIT (code); data note included
 └── .gitignore
 ```
 
