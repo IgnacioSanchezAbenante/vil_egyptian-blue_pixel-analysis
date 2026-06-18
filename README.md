@@ -5,7 +5,6 @@ A reproducible image-processing pipeline for analysing Visible-Induced Luminesce
 in Conservation and Restoration of Cultural Heritage at the University of Amsterdam.
 
 
-
 ## Research context
 
 Egyptian Blue (cuprorivaite, CaCuSi4O6) is an ancient synthetic pigment that emits
@@ -39,7 +38,7 @@ glue, consolidants). All swatches were imaged by VIL before and after artificial
 The pipeline quantifies the luminescence signal of each swatch relative to a reference
 control and produces comparative statistics and figures used in the thesis.
 
----
+
 
 ## Repository structure
 
@@ -61,7 +60,7 @@ thesis_comparative-analysis_repository/
 ├── TRANSPARENCY.md                 — AI and coding-assistance statement
 └── .gitignore
 ```
----
+
 
 ## Analysis overview
 
@@ -97,14 +96,14 @@ thesis_comparative-analysis_repository/
 - **Z-score outlier masking** — pixels with |Z| > 2.0 σ (configurable via `ZSCORE_THRESHOLD`) are excluded per image to remove flakes, gaps, and sensor artefacts without applying a cross-swatch threshold.
 - **Normalised signal** — swatch mean ÷ control mean × 100 %. The control swatch is `P.00` (Egyptian Blue, FGEG2, unaged).
 
----
+
 
 ## Requirements
 
 - Python ≥ 3.11, < 3.13
 - See [`requirements.txt`](requirements.txt)
 
----
+
 
 ## How to run
 
@@ -130,7 +129,6 @@ python VILanalysis_auto.mo.py
 
 Repeat for `SRBpaper_2/`.
 
----
 
 ## Configuration
 
@@ -146,7 +144,7 @@ All user-configurable parameters are in the first code cell of each notebook:
 | `SWATCH_REGISTRY` | List of swatches with id, filename, label, group |
 | `AGEING_PAIRS` | Paired unaged/aged TIFF filenames |
 
----
+
 ## Known limitations
 
 1. **Z-score masking is per-image.** Outlier exclusion (flakes, gaps, artefacts)
@@ -174,7 +172,7 @@ All user-configurable parameters are in the first code cell of each notebook:
 
 6. **Flat-field correction** Illumination during capturing of VIL images was geometrically heterogenous, i.e., not evenly distributed. To account for this, images were flat-field corrected:  the VIL image was divided by a normalised flat-field reference image (uniform paper target, same optical setup, no LWP filter).
 
----
+
 
 ## Acknowledgements
 
@@ -184,13 +182,13 @@ All user-configurable parameters are in the first code cell of each notebook:
 - Additional coding assistance was provided by Anthropic Claude Sonnet 4.6
   (repository preparation, code assistance). See `TRANSPARENCY.md` for full details.
 
----
+
 
 ## Citation
 
 If you use this code, please cite using [`CITATION.cff`](CITATION.cff) or the metadata below.
 
----
+
 
 ## License
 
