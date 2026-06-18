@@ -16,7 +16,7 @@ and conclusions presented in this thesis.
 **- Generated `CITATION.cff`, `requirements.txt`, `.gitignore`, co-edited the `LICENSE`, co-edited the `docs/figure_map.md` , and co-edited the `README.md`**
 
 
-## What AI was **not** used for
+## What AI was NOT used for
 
 - Develop initial concept nor implement the analysis pipeline
 - Choose methodological parameters (Z-score threshold, channel selection, swatch registry, ageing pairs)
