@@ -19,14 +19,14 @@ and conclusions presented in this thesis.
 | AI model | Anthropic Claude Sonnet 4.6 (`claude-sonnet-4-6`) |
 | Assistance date | 2026-04 / 2026-06 |
 
-## What the AI assistant did
+## What AI was used for
 
 - Reviewed coding mistakes, developed efficency and helped share the repository for reproducibility
-- Add in-text explanation within the code to help bench conservators and beginners (such as the author) to implement, adjust or personalise the pipeline for their own use.
-**- Generated `CITATION.cff`, `requirements.txt`, `.gitignore`, `LICENSE`, `docs/figure_map.md` , and co-edited the README.md**
-- Proposed repository structure
+- Helped add in-text explanations within the code to help bench conservators and beginners (such as the author) to implement, adjust or personalise the pipeline for their own use. Chat GPT (version GPT-5) was also used for this, particularly to understand specific lines of code and suggest code formatting for efficiency and readability.  
+**- Generated `CITATION.cff`, `requirements.txt`, `.gitignore`, `LICENSE`, co-edited the `docs/figure_map.md` , and co-edited the `README.md`**
 
-## What the AI assistant did not do
+
+## What AI was **not** used for
 
 - Develop initial concept nor implement the analysis pipeline
 - Choose methodological parameters (Z-score threshold, channel selection, swatch registry, ageing pairs)
