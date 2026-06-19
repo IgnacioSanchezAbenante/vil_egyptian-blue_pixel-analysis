@@ -1,4 +1,4 @@
-# Egyptian Blue VIL Imaging Comparative Pixel-based Analysis — Repository
+# Comparative Image-based Pixel Analysis for NIR Luminescence Detection of Egyptian Blue Through Visible-Induced Luminescence Imaging - Repository
 
 A reproducible image-processing pipeline for analysing Visible-Induced Luminescence
 (VIL) imaging of Egyptian Blue mockup samples. Produced as part of an M.Sc. thesis
@@ -188,7 +188,7 @@ All user-configurable parameters are in the first code cell of each notebook:
 
 If you use this code, please cite using the metadata available in [`CITATION.cff`](CITATION.cff) or the DOI below.
 
-SanchezAbenante, Ignacio. ‘Comparative Image-based Pixel Analysis for NIR Luminescence Detection of EB Through VIL’. Zenodo, 19 June 2026. https://doi.org/10.5281/zenodo.20765230. 
+SanchezAbenante, Ignacio. ‘Comparative Image-based Pixel Analysis for NIR Luminescence Detection of Egyptian Blue Through Visible-Induced Luminescence Imaging’. Zenodo, 19 June 2026. https://doi.org/10.5281/zenodo.20765230.
 
 
 
