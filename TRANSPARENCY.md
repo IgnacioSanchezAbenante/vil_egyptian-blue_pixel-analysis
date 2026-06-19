@@ -13,7 +13,7 @@ and conclusions presented in this thesis.
 
 - Reviewed coding mistakes, developed efficency and helped share the repository for reproducibility
 - Helped add in-text explanations within the code to help bench conservators and beginners (such as the author) to implement, adjust or personalise the pipeline for their own use. Chat GPT (version GPT-5) was also used for this, particularly to understand specific lines of code and suggest code formatting for efficiency and readability.  
-**- Generated `CITATION.cff`, `requirements.txt`, `.gitignore`, co-edited the `LICENSE`, co-edited the `docs/figure_map.md` , and co-edited the `README.md`**
+**- Generated `requirements.txt`, `.gitignore`, co-edited the `LICENSE`, co-edited the `docs/figure_map.md` , and co-edited the `README.md`**
 
 
 ## What AI was NOT used for
