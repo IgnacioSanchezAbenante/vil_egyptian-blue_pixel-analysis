@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "SanchezAbenante"
+  given-names: "Ignacio"
+  orcid: "https://orcid.org/0009-0009-1571-6451"
+title: "vil_egyptian-blue_pixel-analysis"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2026-06-19
+url: "https://github.com/IgnacioSanchezAbenante/vil_egyptian-blue_pixel-analysis"
