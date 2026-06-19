@@ -187,6 +187,7 @@ All user-configurable parameters are in the first code cell of each notebook:
 ## Citation
 
 If you use this code, please cite using [`CITATION.cff`](CITATION.cff) or the metadata below.
+SanchezAbenante, Ignacio. ‘Comparative Image-based Pixel Analysis for NIR Luminescence Detection of EB Through VIL’. Zenodo, 19 June 2026. https://doi.org/10.5281/zenodo.20765230. 
 
 
 
