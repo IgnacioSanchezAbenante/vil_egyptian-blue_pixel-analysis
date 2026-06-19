@@ -20,7 +20,7 @@ detectable by VIL, and how does the signal change after artificial ageing?
 
 ## Thesis summary
 
-**Title:** xx
+**Title:** When Blue Does Not Glow: Material Factors Influencing the Detectability of Egyptian Blue through Visible-Induced Luminescence 
 
 **Author:** Ignacio Sánchez Abenante
 
@@ -178,7 +178,7 @@ All user-configurable parameters are in the first code cell of each notebook:
 ## Acknowledgements
 
 - **Robbert Erdmann** (University of Amsterdam) — developement of initial concept, code assistance, image co-registration (before and after images, personal sofwear) and scientific guidance throughout the project.
-- **Agnes Brokerhof** — (Rijksdienst voor het Cultureel Erfgoed, RCE) institutional support and equipment. Namely, VIL capturing device: Crime-lite AUTO ( foster+freeman, the).
+- **Agnes Brokerhof** (Rijksdienst voor het Cultureel Erfgoed, RCE) — institutional support and equipment. Namely, VIL capturing device: Crime-lite AUTO ( foster+freeman, the).
 - Additional coding assistance was provided by Anthropic Claude Sonnet 4.6
   (repository preparation, code assistance). See `TRANSPARENCY.md` for full details.
 
