@@ -89,8 +89,7 @@ thesis_comparative-analysis_repository/
 | Stratigraphy | `S.CAR`, `S.FEO`, `S.ORP` | Egyptian Blue with carbon, iron oxide, or orpiment overlay |
 | Alteration | `A.01`, `A.02` | Egyptian Blue with animal glue / + gampi japanese paper |
 
-*Dina Danish and Jean-Baptiste Maître have kindly provided a small portion of the sample identified as their most photoluminescent synthesis to date: sample F5EG2, preparation 24.10.2025, firing 18.11.2025. Their research — which addresses synthesis ratios, raw material availability and characterisation, and the resulting pigment properties across a wide range of production and paint-processing variables Baptiste Maître  for sharing unpublished results from their work.For further information please consult the following Keynote speech at Delft University of Technology (TU Delft) in the Netherlands, where they present their research on the reconstructions: “Material Twins, Infrared Strangers: Reconstructing Egyptian Blue in Egypt and the Netherlands,” TUDelftcollegegrama, Accessed 03 March, 2026, https://collegerama.tudelft.nl/Mediasite/Channel/ide-vision-and-depiction-ii/watch/2211dddfd9fc4e17921bb2272d7b2b821d?sortBy=views; Additional information on their forthcoming research can be found here: https://dinadanish.com/synthetic-egyptian-blue-the-evil-eye-recon.structing-a-lost-pigment-and-tracing-its-protective-aura/; https://jbmaitre.com/egyptian_blue_maitre_danish/., 
-
+***add info about artist-researchers if they agree** 
 
 
 ## Requirements
@@ -180,7 +179,6 @@ All user-configurable parameters are in the first code cell of each notebook:
 
 - **Robbert Erdmann** (University of Amsterdam) — developement of initial concept, code assistance, image co-registration (before and after images, personal sofwear) and scientific guidance throughout the project.
 - **Agnes Brokerhof** — (Rijksdienst voor het Cultureel Erfgoed, RCE) institutional support and equipment. Namely, VIL capturing device: Crime-lite AUTO ( foster+freeman, the).
-- **Dina Danish & Jean-Baptise Maitre** - amsterdam-based artists and researchers, for the generous donation of their own synthesised Egyptian Blue(sample F5EG2, preparation 24.10.2025, firing 18.11.2025). Publications forthcoming.
 - Additional coding assistance was provided by Anthropic Claude Sonnet 4.6
   (repository preparation, code assistance). See `TRANSPARENCY.md` for full details.
 
